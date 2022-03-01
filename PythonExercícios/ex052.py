@@ -6,4 +6,14 @@ print("DESAFIO 52 - NÚMEROS PRIMOS")
 print("="*27)
 
 num = int(input('Informe um número: '))
-if num > 1 and num
+div = 0
+for divisor in range(1, num):
+    if num % divisor == 0:
+        div = div + 1
+        if div > 1:
+            break
+if div > 1:
+    print('NÃO É PRIMO')
+else:
+    print('É PRIMO')
+
