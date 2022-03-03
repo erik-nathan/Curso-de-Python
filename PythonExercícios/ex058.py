@@ -3,7 +3,7 @@ Só que agora o jogador vai tentar adivinhar até acertar, mostrando no final qu
 necessários para vencer..'''
 
 print("="*35)
-print("DESAFIO 57 - JOGO DE ADVINHAÇÃO V.2")
+print("DESAFIO 58 - JOGO DE ADVINHAÇÃO V.2")
 print("="*35)
 
 from random import randint

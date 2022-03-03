@@ -7,7 +7,7 @@
 Seu programa deverá realizar a operação solicitada em cada caso..'''
 
 print("="*38)
-print("DESAFIO 57 - CRIANDO UM MENU DE OPÇÕES")
+print("DESAFIO 59 - CRIANDO UM MENU DE OPÇÕES")
 print("="*38)
 
 from time import sleep
