@@ -3,7 +3,7 @@ digitar o valor 999, que é a condição de parada. No final, mostre quantos nú
 foi a soma entre elas (desconsiderando o flag).'''
 
 print("="*36)
-print("DESAFIO 65 - VÁRIOS NÚMEROS COM FLAG")
+print("DESAFIO 66 - VÁRIOS NÚMEROS COM FLAG")
 print("="*36)
 
 s = cont = 0
