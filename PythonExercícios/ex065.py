@@ -12,7 +12,6 @@ while not fim:
     num = int(input('Informe um número: '))
     s += num
     cont += 1
-    # print("-" * 41)
     if cont == 1:
         maior = menor = num
     else:
